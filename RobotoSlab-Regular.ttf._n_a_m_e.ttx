@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Font data copyright Google 2013
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Roboto Slab
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      Google:Roboto Slab:2013
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Roboto Slab Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.100263; 2013; ttfautohint (v0.94.20-1c74) -l 8 -r 12 -G 200 -x 14 -w "" -W
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      RobotoSlab-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      Roboto Slab is a trademark of Google.
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Google
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      Google.com
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      Christian Robertson
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Licensed under the Apache License, Version 2.0
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://www.apache.org/licenses/LICENSE-2.0
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0">
+      Roboto Slab
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="0" langID="0x0">
+      Roboto Slab Regular
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Font data copyright Google 2013
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Roboto Slab
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Google:Roboto Slab:2013
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Roboto Slab Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.100263; 2013; ttfautohint (v0.94.20-1c74) -l 8 -r 12 -G 200 -x 14 -w "" -W
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      RobotoSlab-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Roboto Slab is a trademark of Google.
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Google
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      Google.com
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      Christian Robertson
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Licensed under the Apache License, Version 2.0
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.apache.org/licenses/LICENSE-2.0
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Roboto Slab
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="18" platformID="3" platEncID="1" langID="0x409">
+      Roboto Slab Regular
+    </namerecord>
+  </name>
+
+</ttFont>

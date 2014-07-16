@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="RobotoSlab-Light.ttf.GlyphOrder.ttx"/>
+  <head src="RobotoSlab-Light.ttf._h_e_a_d.ttx"/>
+  <hhea src="RobotoSlab-Light.ttf._h_h_e_a.ttx"/>
+  <maxp src="RobotoSlab-Light.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="RobotoSlab-Light.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="RobotoSlab-Light.ttf._h_m_t_x.ttx"/>
+  <VDMX src="RobotoSlab-Light.ttf.V_D_M_X_.ttx"/>
+  <cmap src="RobotoSlab-Light.ttf._c_m_a_p.ttx"/>
+  <loca src="RobotoSlab-Light.ttf._l_o_c_a.ttx"/>
+  <glyf src="RobotoSlab-Light.ttf._g_l_y_f.ttx"/>
+  <name src="RobotoSlab-Light.ttf._n_a_m_e.ttx"/>
+  <post src="RobotoSlab-Light.ttf._p_o_s_t.ttx"/>
+  <GDEF src="RobotoSlab-Light.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="RobotoSlab-Light.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="RobotoSlab-Light.ttf.G_S_U_B_.ttx"/>
+</ttFont>

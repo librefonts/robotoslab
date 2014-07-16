@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="dasiaoxia" class="1"/>
+      <ClassDef glyph="estimated" class="1"/>
+      <ClassDef glyph="nsuperior" class="1"/>
+      <ClassDef glyph="uni03D1" class="1"/>
+      <ClassDef glyph="uni0482" class="1"/>
+      <ClassDef glyph="uni0483" class="1"/>
+      <ClassDef glyph="uni0484" class="1"/>
+      <ClassDef glyph="uni0485" class="1"/>
+      <ClassDef glyph="uni0486" class="1"/>
+      <ClassDef glyph="uni0488" class="1"/>
+      <ClassDef glyph="uni0489" class="1"/>
+      <ClassDef glyph="uni2000" class="1"/>
+      <ClassDef glyph="uni2001" class="1"/>
+      <ClassDef glyph="uni2002" class="1"/>
+      <ClassDef glyph="uni2003" class="1"/>
+      <ClassDef glyph="uni2004" class="1"/>
+      <ClassDef glyph="uni2005" class="1"/>
+      <ClassDef glyph="uni2006" class="1"/>
+      <ClassDef glyph="uni2007" class="1"/>
+      <ClassDef glyph="uni2008" class="1"/>
+      <ClassDef glyph="uni2009" class="1"/>
+      <ClassDef glyph="uni200A" class="1"/>
+      <ClassDef glyph="uni200B" class="1"/>
+      <ClassDef glyph="uni2113" class="1"/>
+      <ClassDef glyph="uni2116" class="1"/>
+      <ClassDef glyph="uniFEFF" class="1"/>
+      <ClassDef glyph="uniFFFC" class="1"/>
+      <ClassDef glyph="uniFFFD" class="1"/>
+    </GlyphClassDef>
+  </GDEF>
+
+</ttFont>
