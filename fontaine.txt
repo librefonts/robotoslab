@@ -1,0 +1,206 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Roboto Slab
+    Sub family: Thin
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Font data copyright Google 2013
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.100262; 2013
+    Vendor url: Google.com
+    Designer: Google
+    Designer url: Christian Robertson
+    Glyph count: 1051
+    Character count: 881
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 52
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 20
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 52
+  Font:
+    Common name: Roboto Slab
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Font data copyright Google 2013
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.100262; 2013
+    Vendor url: Google.com
+    Designer: Google
+    Designer url: Christian Robertson
+    Glyph count: 1051
+    Character count: 881
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 52
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 20
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 52
+  Font:
+    Common name: Roboto Slab
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Font data copyright Google 2013
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.100262; 2013
+    Vendor url: Google.com
+    Designer: Google
+    Designer url: Christian Robertson
+    Glyph count: 1051
+    Character count: 881
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 52
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 20
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 52
+  Font:
+    Common name: Roboto Slab
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Font data copyright Google 2013
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 1.100262; 2013
+    Vendor url: Google.com
+    Designer: Google
+    Designer url: Christian Robertson
+    Glyph count: 1051
+    Character count: 881
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 52
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 20
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 52

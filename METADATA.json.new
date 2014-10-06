@@ -1,0 +1,51 @@
+{
+  "name": "Roboto Slab",
+  "designer": "Christian Robertson",
+  "license": "Apache2",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 91225,
+  "fonts": [
+    {
+      "name": "Roboto Slab",
+      "style": "normal",
+      "weight": 300,
+      "filename": "RobotoSlab-Light.ttf",
+      "postScriptName": "RobotoSlab-Light",
+      "fullName": "Roboto Slab Light",
+      "copyright": "Font data copyright Google 2013"
+    },
+    {
+      "name": "Roboto Slab",
+      "style": "normal",
+      "weight": 700,
+      "filename": "RobotoSlab-Bold.ttf",
+      "postScriptName": "RobotoSlab-Bold",
+      "fullName": "Roboto Slab Bold",
+      "copyright": "Font data copyright Google 2013"
+    },
+    {
+      "name": "Roboto Slab",
+      "style": "normal",
+      "weight": 250,
+      "filename": "RobotoSlab-Thin.ttf",
+      "postScriptName": "RobotoSlab-Thin",
+      "fullName": "Roboto Slab Thin",
+      "copyright": "Font data copyright Google 2013"
+    },
+    {
+      "name": "Roboto Slab",
+      "style": "normal",
+      "weight": 400,
+      "filename": "RobotoSlab-Regular.ttf",
+      "postScriptName": "RobotoSlab-Regular",
+      "fullName": "Roboto Slab Regular",
+      "copyright": "Font data copyright Google 2013"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-04-10"
+}

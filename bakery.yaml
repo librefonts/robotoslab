@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [RobotoSlab-Thin.ttf.ttx, RobotoSlab-Regular.ttf.ttx, RobotoSlab-Bold.ttf.ttx,
+  RobotoSlab-Light.ttf.ttx, src/RobotoSlab-Thin.ttf.ttx, src/RobotoSlab-Regular.ttf.ttx,
+  src/RobotoSlab-Bold.ttf.ttx, src/RobotoSlab-Light.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
